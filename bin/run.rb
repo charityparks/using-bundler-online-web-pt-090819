@@ -1,7 +1,7 @@
 require_relative '../config/environment'
 
 Hashie
-Sinatra, 1.4.4
+Sinatra
 Octokit
 Pry
 AwesomePrint
